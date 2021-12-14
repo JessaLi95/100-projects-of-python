@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/lijiaze/Desktop/100-days-of-python/Udemy practice/venv/bin/python" "$0" "$@"
-' '''
+#!/Users/lijiaze/Desktop/100-projects-of-python/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
