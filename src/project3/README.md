@@ -1,4 +1,4 @@
-#Animal personality test
+# Animal personality test
 
 Note: this code only applicable for Python 3.10, please run it in an appropriate environment.
 
