@@ -70,15 +70,15 @@ def horse():
 
 def sheep():
     print('''
-                       __  _
-                   .-.'  `; `-._  __  _
-                  (_,         .-:'  `; `-._
-                ,'o"(        (_,           )
-               (__,-'      ,'o"(            )>
-                  (       (__,-'            )
-                   `-'._.--._(             )
-                      |||  |||`-'._.--._.-'
-                                 |||  |||
+               __  _
+           .-.'  `; `-._  __  _
+          (_,         .-:'  `; `-._
+        ,'o"(        (_,           )
+       (__,-'      ,'o"(            )>
+          (       (__,-'            )
+           `-'._.--._(             )
+              |||  |||`-'._.--._.-'
+                         |||  |||
     ''')
     print('"Sheep represents lovers or marriage. The person who discards the sheep first means that you will sacrifice\n'
           'love first when it comes to a difficult choice."\n')
@@ -86,18 +86,18 @@ def sheep():
 
 def cow():
     print('''
-                 _ (.".) _
-                '-'/. .\\'-'
-                  /_   _\     _...._
-                 (` o o `)---`      '.
-                  /"---"`             \\
-                  |            /     ;|
-                  |           |      ||
-                   \\\\   \  \  \     /\\\\
-                    \`;-'| |-.-'-,  \ |)
-                     ( | ( | `-uu ( |
-                      ||  ||    || ||
-                     /_( /_(   /_(/_(
+         _ (.".) _
+        '-'/. .\\'-'
+          /_   _\     _...._
+         (` o o `)---`      '.
+          /"---"`             \\
+          |            /     ;|
+          |           |      ||
+           \\\\   \  \  \     /\\\\
+            \`;-'| |-.-'-,  \ |)
+             ( | ( | `-uu ( |
+              ||  ||    || ||
+             /_( /_(   /_(/_(
         ''')
     print('"Cow represents parents and relatives. Do not blame yourself if you abandon cow first, it may means that you\n'
           'are an independent person."\n')
@@ -130,17 +130,17 @@ def monkey():
 
 def lion():
     print('''
-                                   ,%%%%%%%,
-                                ,%%/\%%%%/\%,
-                               ,%%%\c "" J/%%,
-          %.                   %%%%/ d  b \%%%
-          `%%.         __      %%%%    _  |%%%
-           `%%      .-'  `"~--"`%%%%(=_Y_=)%%'
-            //    .'     `.     `%%%%`\\7/%%%'____
-           ((    /         ;      `%%%%%%%'____)))
-           `.`--'         ,'   _,`-._____`-,
-             `"""`._____  `--,`          `)))
-                        `~"-)))
+                               ,%%%%%%%,
+                            ,%%/\%%%%/\%,
+                           ,%%%\c "" J/%%,
+      %.                   %%%%/ d  b \%%%
+      `%%.         __      %%%%    _  |%%%
+       `%%      .-'  `"~--"`%%%%(=_Y_=)%%'
+        //    .'     `.     `%%%%`\\7/%%%'____
+       ((    /         ;      `%%%%%%%'____)))
+       `.`--'         ,'   _,`-._____`-,
+         `"""`._____  `--,`          `)))
+                    `~"-)))
     ''')
     print('"Lion represents rational thinking. You might be a bit sensitive when facing big decision."\n')
 
