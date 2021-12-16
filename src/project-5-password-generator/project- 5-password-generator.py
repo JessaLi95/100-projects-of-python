@@ -10,7 +10,7 @@ symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 def generateElement(base_elements, number_of_elements):
     ran_element = ''
     for i in range(0, number_of_elements):
-        element = base_elements[random.randint(1, len(base_elements) - 1)]
+        element = base_elements[random.randint(1, len(base_elements) - 1)]  # password_list += random.choice(base_elements)
         ran_element += element
     return ran_element
 
@@ -31,5 +31,5 @@ ran_number = generateElement(numbers, nr_numbers)
 
 combination = ran_letter + ran_symbol + ran_number
 ranPassword = random.sample(combination, len(combination))
-password = "".join(map(str, ranPassword))
+password = "".join(map(str, ranPassword))   # for char in ranPassword: password += char
 print("The generated password is: " + password)
