@@ -18,7 +18,7 @@ from money_machine import MoneyMachine
 # from prettytable import PrettyTable
 #
 # table = PrettyTable()
-# table.add_column("Pokemon Name", ["Pikachu", 'Squirtle', "Charmander"])
-# table.add_column("Type", ["Electric", 'Water', "Fire"])
-# table.align = "l"
+# table.add_column("Pokemon Name", ["Pikachu", "Squirtle", "Charmander", "Bulbasaur"])
+# table.add_column("Type", ["Electric", "Water", "Fire", "Grass"])
+# # table.align = "l"
 # print(table)
